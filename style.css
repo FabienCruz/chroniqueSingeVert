@@ -6,11 +6,18 @@ body {
 p {
   font-family: serif;
   color: rgba(0,0,0,0.85);
+  margin-bottom: 0;
+}
+
+h1 {
+  font-family: serif;
+  margin: 0;
 }
 
 h2, h3, h4, h5, h6 {
   font-family: sans-serif;
   color: #008500;
+  margin-bottom: 0;
 }
 
 a {
@@ -22,14 +29,25 @@ a:hover {
   text-decoration: underline;
 }
 
+nav {
+  text-align: center;
+  margin: 1em;
+  font-size: 1.3em;
+}
+
+hr {
+  width: 10%;
+}
+
 #masthead {
-  font-size: 2.5em;
+  font-size: 2.8em;
 }
 
 #logo {
   position: relative;
-  left: 0.3em;
-  top: 0.2em;
+  left: 0.2em;
+  top: 0.3em;
+  z-index: -1;
 }
 
 .banner {
@@ -43,3 +61,13 @@ a:hover {
   margin: auto;
   width: 50%;
 }
+
+.subtext {
+  margin-top: 0;
+  opacity: 50%;
+}
+
+#tagline {
+  margin-bottom: 1em;
+}
+
