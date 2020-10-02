@@ -6,11 +6,12 @@ body {
 p {
   font-family: serif;
   color: rgba(0,0,0,0.85);
-  margin: 0.5em auto 0em;
+  margin: 0.5em auto 0em
 }
 
 h1 {
   font-family: serif;
+  font-size: 2.8em;
   margin: 0;
 }
 
@@ -22,15 +23,10 @@ h2, h3, h4, h5, h6 {
 }
 
 button {
-  padding: 0;
   border: none;
-  background-color: transparent;
-  color: #008500;
-}
-
-button {
   border-bottom: solid 1px;
   background-color: transparent;
+  padding: 0;
   color: #008500;
 }
 
@@ -56,46 +52,41 @@ a:hover {
 nav {
   text-align: center;
   margin: 1em;
-  font-size: 1.3em;
 }
 
-.banner {
-  width: 100%;
-  border-top: solid 3px;
-  border-bottom: solid 1px;
-}
-
-.container {
+main {
   margin: auto;
   width: 50%;
 }
 
-.subtext {
+header {
+  width: 100%;
+  border-top: solid 3px;
+  border-bottom: solid 1px;
+  padding-bottom: 1em;
+}
+
+figure{
+  text-align: center;
+  margin: 1em;
+}
+
+figcaption {
   margin-top: 0;
+  color: rgba(0,0,0,0.85);
   opacity: 50%;
 }
 
-.cover {
+img {
   width: 50%;
-  margin-left: 25%;
-  margin-top: 1em;
-  margin-bottom: 0;
 }
 
-#home {
-  font-size: 1em;
-}
-
-
-#tagline {
-  margin-bottom: 1em;
-}
-
-#masthead {
-  font-size: 2.8em;
+.nav {
+  font-size: 1.3em;
 }
 
 #logo {
+  width: auto;
   position: relative;
   height: 1.3em;
   left: 0.2em;
