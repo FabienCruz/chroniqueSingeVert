@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #ececec;
   font-size: 1.3em;
   margin: auto;
   width: 50%;
@@ -13,7 +13,7 @@ p {
 }
 
 h1 {
-  font-family: 'PT Serif', serif;
+  font-family: 'PT serif', serif;
   font-size: 2.8em;
   margin: 0;
 }
