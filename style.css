@@ -2,10 +2,10 @@ body {
   background-color: #ececec;
   font-size: 1.3em;
   margin: auto;
-  width: 50%;
+  width: 50%
 }
 
-p {
+p, ol, ul {
   font-family: 'Lora', serif;
   line-height: 150%;
   color: rgba(0,0,0,0.85);
@@ -71,6 +71,8 @@ figure{
 
 figcaption {
   margin-top: 0;
+  font-family: 'Lora', serif;
+  font-size: 0.8em;
   color: rgba(0,0,0,0.85);
   opacity: 50%;
 }
