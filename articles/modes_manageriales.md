@@ -18,6 +18,7 @@ Zerbib, Romain (coord.) Les modes managériales: du conformisme à l'innovation
 ### Lecture
 
 #### Préface - Christophe Midler
+
 L'introducteur du concept de mode managériale en 1986, dans l'article Logique de la mode managériale, (Annales des Mines, Gérer et Comprendre, 3, Juin, 74-85). Pourquoi ce concept dure, 4 raisons à cela:
 
 d'un côté le mouvement, la compréhension des transformations organisationnelles, "la pérennité des entreprises dépend de leur plasticité" (p.8) afin de s'adapter à leur environnement,
@@ -27,9 +28,7 @@ comprendre, "Dans la mesure où les sciences de gestion se pensent comme ingéni
 
 #### Qu'est-ce qu'une mode managériale ? - Romain Zerbib
 
-Romain Zerbib donne des éléments pour une généalogie de l'étude des modes managériales
-
-Issue de l’approche sociologique de la théorie néo-institutionnelle (Meyer et Rowan, 1977), John W. Meyer and Brian Rowan
+Romain Zerbib inscrit l'étude des modes managériales dans un courant de pensée qui mèle sociologie et sciences de gestion.
 
 "La théorie des modes managériales est née en 1986 sous la plume de Christophe Midler avec la publication d’un article intitulé « La logique de la mode managériale ». Il sera suivi quelques années plus tard, en 1991, par un autre article de référence rédigé par Eric Abrahamson « Managerial Fads and Fashions »." (p.10)
 
@@ -37,38 +36,40 @@ Abrahamson E. (1991), Managerial fads and fashions: the diffusion and rejection 
 
 Midler C. (1986), Logique de la mode managériale, Annales des Mines, Gérer et Comprendre, 3, Juin, 74-85.
 
-Premières théories étudient la diffusion des nouvelles pratiques de gestion perçues comme un conformisme, sous-tendu par recherche de légitimité.
+Ces références sont citées de nombreuses fois dans l'ouvrage.
 
-Romain Zerbib, selon les théoriciens des modes managériales, donne une définition du phénomène de mode comme devant répondre à 4 critères:
+Issue de l’approche sociologique de la théorie néo-institutionnelle John W. Meyer et Brian Rowan (1977), ces premières théories étudient la diffusion des nouvelles pratiques de gestion perçues comme un conformisme, sous-tendu par la recherche de légitimité.
 
-un objet, une pratique de gestion, présenté comme moderne, rationnel et meilleur,
-cette pratique et surtout son discours envahit l'environnement des managers (livres, articles, conférences ...) et que des entreprises affirment user de ces nouvelles pratiques,
-l'adoption résulte d'une croyance, d'imitation, pas uniquement de l'efficacité supérieure de la pratique, Elément important qui distingue une mode de la diffusion normale d'une pratique [qu'est-ce qu'une diffusion normale d'une pratique reposant sur ses qualités intrinsèques ???]
-cycle de vie court, une popularité qui décroit rapidement,
-"Une mode managériale peut, en résumé, être définie comme étant le résultat d’une pratique de gestion qui a connu une popularité rapide, suivie à relativement court terme d’une chute soudaine, et dont la popularité ne peut s’expliquer – uniquement – par sa valeur effective." (p. 11)
+A partir de ces théoriciens des modes managériales, Romain Zerbib donne une première définition du phénomène de mode comme devant répondre à 4 critères:
 
-La mode managériale est un phénomène éphémère de popularité rapide, intense et relativement bref, d'une pratique de gestion ou d'un discours sur une pratique de gestion, dont la popularité ne s'explique pas uniquement par ses qualités intrinsèques. 
+1. un objet, une pratique de gestion présentée comme moderne, rationnelle et performante,
+2. une forte diffusion médiatique, le discours envahit les livres, les articles, les conférences, etc.
+3. une adoption qui résulte autant d'une croyance ou d'une imitation que d'une performance réelle,
+4. un cycle de vie court, une popularité qui décroit rapidement.
 
-Beaucoup de managers suivent une mode managériale "alors qu'ils appartiennent à des secteurs d'activités différents, soumis à des logiques distinctes" (p.11)
+La dimension irrationnelle est soulignée par Romain Zerbib. Comment une pratique, souvent très simple, répondrait-elle à une multitude de contextes et de situations variées? Comment une pratique que tout le monde adopte simultanément fournirait les moyens de se différencier? 
 
-En suivant Pamela Tolbert et Lynne Zucker (1983),  il convient de "prendre à la fois en considération les éléments d’ordre « technico-économique » [...] et les éléments d’ordre « socio-psychologique »" (p.12) pour élucider le phénomène.
+Toujours en suivant les "théoriciens des modes managériales", il précise les raisons de cette adoption, en pointant d'abord les caractéristiques, les canaux de diffusion et l'utilité de la plupart de ces pratiques à la mode pour leur clientèle, les managers.
 
-Les raisons d'adoption, selon "théoriciens des modes managériales", son utilité mais aussi :
+###### les caractéristiques des pratiques à la mode 
+- elles sont simples à appréhender, faciles à utiliser, rapides à mettre en oeuvre,
+- elles paraîssent modernes parce que récentes, mais aussi, parce qu'elles sont parées de prestiges, ornées de chiffres et de discours d'experts, qu'elles permettent d'imiter le comportement d'une élite, d'entreprises célèbres ou pionnières,
+- elles apparaîssent "lors de séquences marquées par une remise en question des paradigmes établis (crises, faillites, etc.)" (p.12) Elles semblent des solutions simples à des problèmes complexes.
 
-son pouvoir d'attraction, plusieurs critères facile à utiliser, solution rapide à un problème complexe, sur la forme apparaît novateur, plus récent équivaut à plus moderne, atour de la science avec chiffres et des experts - "lors de séquences marquées par une remise en question des paradigmes établis (crises, faillites, etc.)." (p.12)
-imiter le comportement d'une élite, soumis aux pressions contradictoires d'un côté de se différencier, de l'autre se conformer aux normes, course entre pionniers et suiveurs
-capacité de persuasion de l'industrie de la mode, pas d'émergence spontanée, qu'il existe une "industrie" composées d'académiques, de consultants, de médias, de managers, pas de mouvement concerté mais une convergences d'intérêts autour de la diffusion d'une pratique
+##### les réseaux de diffusion 
+Il n'y a pas d'émergence spontanée. Il existe une "industrie" composées d'académiques, de consultants, de médias, de managers, qui diffusent une pratique non pas par un mouvement concerté mais suite à une convergence conjoncturelle d'intérêts.
+
+##### l'intérêt des managers 
+soumis aux pressions contradictoires d'un côté de se différencier, de l'autre se conformer aux normes, course entre pionniers et suiveurs
 Manager pas victime de la mode, mais y trouve un intérêt en instrumentalisant une pratique à la mode, pour 4 raisons:
-
-améliorer sa position, "en maîtrisant le jargon", inclusion exclusion, qui est in qui est out ? L'adoption de la pratique n'est pas nécessaire. Vision cynique.
-rassurer les parties prenantes, les actionnaires plus cléments, entreprises qui suivent les modes évaluées de façon plus positive et plus clémente,
-facilite le management, mobilisation des collaborateurs plus faciles, effort de communication et de persuasion moindre, "stratégie en kit" (p.14)
-limiter les risques, en cas d'échec, responsabilité sur les experts (externes), risque à ne pas adopter,
-Le conformisme exclut toute rupture alors que nécessaire "pour devenir et demeurer leader sur le marché." (p.15)
+1. améliorer sa position, "en maîtrisant le jargon", inclusion exclusion, qui est in qui est out ? L'adoption de la pratique n'est pas nécessaire. Vision cynique.
+2. rassurer les parties prenantes, les actionnaires plus cléments, entreprises qui suivent les modes évaluées de façon plus positive et plus clémente,
+3. facilite le management, mobilisation des collaborateurs plus faciles, effort de communication et de persuasion moindre, "stratégie en kit" (p.14)
+4. limiter les risques, en cas d'échec, responsabilité sur les experts (externes), risque à ne pas adopter,
 
 Risque à adopter, phénomène exogène dont l'impact à moyen terme est inconnu, issu d'un contexte souvent différent (exemple du Lean management, toyotisme)
 
-Dépasser la dichotomie adaption / rejet, et la graduer, pour cela Kjell Arne Røvik, analogie avec l'infection par un virus, infection, immunité, la réplication, l'incubation, la mutation, la dormance. Nuance les modalités d'adoption.
+Dépasser la dichotomie adoption / rejet, et la graduer, pour cela Kjell Arne Røvik, analogie avec l'infection par un virus, infection, immunité, la réplication, l'incubation, la mutation, la dormance. Nuance les modalités d'adoption.
 
 Røvik KA. (2011), From Fashion to Virus: An Alternative Theory of Organizations’ Handling of Management Ideas, Organization Studies, 32(5), 631-653.
 
@@ -153,9 +154,17 @@ Sur le premier point, il fait remarquer qu'entre le temps de l'introduction d'un
 
 revient sur Simmel, disparition des grandes convictions collectives, et pose la question de savoir si "la mode managériale [...] ne cristallise pas un esprit utopique plus puissant qu’il n’y paraît." (p. 37)
 
-François Gueuze
+#### Les effets de mode managériale: entre académie, consultance et business - José Allouche
 
-https://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture/
+José Allouche dresse un historique des outils et modèles d'analyse stratégique, discipline née dans les années 50 et inspirée de l'art militaire.
+
+Concurrence et allers-retour entre cabinets de conseil et milieux académiques pour tenter de répondre au contexte où "[...] la dégradation du mythe de la rationalité est parallèle à l’arrêt de la croissance, à l’amplification des turbulences, à la montée irrésistible de l’incertitude" (pp. 47-48) pour laisser place à "un nouveau culte se dresse sur l’autel de la performance, où les modèles rationnels formalisés s’effacent au profit de modèles incantatoires relevant de l’irrationnel et de pratiques magiques." (pp. 52-53)
+
+D'abord l'impulsion par des experts universitaires (1950 - 1965), avec prise en compte de la double diagnostic interne et externe, rendu opérationnel en 1982 avec la matrice SWOT.
+
+Les matrices de portefeuilles (1969 - 1973). Découpage de l'entreprise en grand domaine (business unit). Mimétisme des stratégiques par l'application des matrices de portefeuille. Limite des matrices enoncée par les milieux académiques. "Aucun outil [...] ne vaut pour toujours et partout [...]" (p.47)
+
+#### Les tendances managériales révélatrices de problématiques invariantes ? - Patrick Storhaye
 
 ### Eléments critiques
 
@@ -227,3 +236,9 @@ L'efficacité, la performance, l'utilité concrète de la plupart des modes mana
 La Qualité totale, perçue comme une mode, est encore très répandue, le Lean Management, en vogue aujourd'hui, en est directement issu. L'article "Le conformisme source d'innovation managériale ?" de Zacharie Mauge me semble, à cet égard, décrire une déclinaison - variante du cercle qualité.
 
 se positionner au sein d'une communauté- renvoie à notion d'identité
+
+François Gueuze
+
+https://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture/
+
+Article de José Allouche aurait pu prendre dimension interne externe: années 60 interne, années 70-80 externe, années 90-00 interne
