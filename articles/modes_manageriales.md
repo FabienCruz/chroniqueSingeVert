@@ -1,12 +1,12 @@
 ## Les modes managériales - Romain Zerbib
 
-Entreprise libérée ou bonheur au travail, voilà des thèmes qui sont apparus, il y a quelques années, dans les discours sur l'entreprise, ont compté nombre d'articles, de conférences, de reportages, puis peu à peu disparaissent du paysage.
+Entreprise libérée ou bonheur au travail, voilà des thèmes qui sont apparus, il y a quelques années, dans les discours sur l'entreprise, ont compté nombre d'articles, de conférences, de reportages, puis peu à peu ont disparu du paysage.
 
-Que nous disent ces modes managériales de la vie des entreprises ?
+Que nous disent ces modes managériales de la vie des entreprises?
 
-Une mode managériale est-elle juste un comportement moutonnier (de Panurge, s'il vous plaît) ou mettent-elles en évidence des tendances, des problèmes ou des questionnements qui traversent les entreprises face à un monde changeant ? 
+Une mode managériale est-elle juste un comportement moutonnier (de Panurge, s'il vous plaît) ou mettent-elles en évidence des tendances, des problèmes ou des questionnements qui traversent les entreprises face à un monde incertain? 
 
-Ce livre collectif balaie ces questions à partir du concept de mode managériale, depuis la définition du phénomène, son fonctionnement et ce qu'il révèle de la vie des entreprises. Il indique que ces modes pointent souvent un moment de remise en question et, en cela, ouvrent un potentiel d'innovations. 
+Ce livre collectif se pose ces questions, depuis la définition du phénomène de mode managériale, son fonctionnement et ce qu'il révèle de la vie des entreprises. Il indique que ces modes pointent souvent un moment de remise en question et, en cela, ouvrent un potentiel d'innovations. 
 
 ![Les modes managériales couverture du livres](modesManagériales.png)
 
@@ -40,48 +40,53 @@ Ces références sont citées de nombreuses fois dans l'ouvrage.
 
 Issue de l’approche sociologique de la théorie néo-institutionnelle John W. Meyer et Brian Rowan (1977), ces premières théories étudient la diffusion des nouvelles pratiques de gestion perçues comme un conformisme, sous-tendu par la recherche de légitimité.
 
+###### La définition du phénomène de mode managériale
 A partir de ces théoriciens des modes managériales, Romain Zerbib donne une première définition du phénomène de mode comme devant répondre à 4 critères:
 
 1. un objet, une pratique de gestion présentée comme moderne, rationnelle et performante,
 2. une forte diffusion médiatique, le discours envahit les livres, les articles, les conférences, etc.
-3. une adoption qui résulte autant d'une croyance ou d'une imitation que d'une performance réelle,
+3. une adoption qui résulte autant d'une croyance ou d'une imitation que de qualités réelles,
 4. un cycle de vie court, une popularité qui décroit rapidement.
 
-La dimension irrationnelle est soulignée par Romain Zerbib. Comment une pratique, souvent très simple, répondrait-elle à une multitude de contextes et de situations variées? Comment une pratique que tout le monde adopte simultanément fournirait les moyens de se différencier? 
+La dimension irrationnelle est soulignée par Romain Zerbib. Comment une pratique, souvent très simple, répondrait-elle à une multitude de contextes et de situations variées? Comment une pratique que tout le monde adopte simultanément fournirait les moyens de se différencier? Pourquoi adopter une pratique externe dont l'impact est mal connu?
 
-Toujours en suivant les "théoriciens des modes managériales", il précise les raisons de cette adoption, en pointant d'abord les caractéristiques, les canaux de diffusion et l'utilité de la plupart de ces pratiques à la mode pour leur clientèle, les managers.
+"Le succès d’une mode repose en effet sur le principe que l’on peut réussir en imitant les meilleures entreprises." (p.17)
 
-###### les caractéristiques des pratiques à la mode 
+Toujours en suivant les "théoriciens des modes managériales", il précise les raisons de cette adoption, en pointant d'abord les caractéristiques, les canaux de diffusion et l'intérêt de la plupart de ces pratiques à la mode pour leur clientèle, les managers.
+
+###### Le pouvoir d'attraction des pratiques à la mode 
 - elles sont simples à appréhender, faciles à utiliser, rapides à mettre en oeuvre,
 - elles paraîssent modernes parce que récentes, mais aussi, parce qu'elles sont parées de prestiges, ornées de chiffres et de discours d'experts, qu'elles permettent d'imiter le comportement d'une élite, d'entreprises célèbres ou pionnières,
 - elles apparaîssent "lors de séquences marquées par une remise en question des paradigmes établis (crises, faillites, etc.)" (p.12) Elles semblent des solutions simples à des problèmes complexes.
 
-##### les réseaux de diffusion 
+###### Les réseaux de diffusion 
 Il n'y a pas d'émergence spontanée. Il existe une "industrie" composées d'académiques, de consultants, de médias, de managers, qui diffusent une pratique non pas par un mouvement concerté mais suite à une convergence conjoncturelle d'intérêts.
 
-##### l'intérêt des managers 
-soumis aux pressions contradictoires d'un côté de se différencier, de l'autre se conformer aux normes, course entre pionniers et suiveurs
-Manager pas victime de la mode, mais y trouve un intérêt en instrumentalisant une pratique à la mode, pour 4 raisons:
-1. améliorer sa position, "en maîtrisant le jargon", inclusion exclusion, qui est in qui est out ? L'adoption de la pratique n'est pas nécessaire. Vision cynique.
-2. rassurer les parties prenantes, les actionnaires plus cléments, entreprises qui suivent les modes évaluées de façon plus positive et plus clémente,
-3. facilite le management, mobilisation des collaborateurs plus faciles, effort de communication et de persuasion moindre, "stratégie en kit" (p.14)
-4. limiter les risques, en cas d'échec, responsabilité sur les experts (externes), risque à ne pas adopter,
+###### L'intérêt pour les managers de suivre les modes 
+Bien que soumis aux mouvements contradictoires d'un côté pour se différencier, de l'autre pour se conformer aux normes, pris dans une course entre pionniers et suiveurs, les managers ne sont pourtant pas victimes de la mode. 
 
-Risque à adopter, phénomène exogène dont l'impact à moyen terme est inconnu, issu d'un contexte souvent différent (exemple du Lean management, toyotisme)
+Ils y trouvent un intérêt en "l'instrumentalisant":
+- afin d'améliorer sa position, souvent "en maîtrisant le jargon", car l'adoption de la pratique n'est pas nécessaire. C'est un jeu d'inclusion - exclusion, qui est "in" qui est "out"?
+- Pour diminuer la pression et les risques, une étude (p.14) a montré que les entreprises qui suivent les modes sont évaluées de façon plus positive et plus clémente, notamment par les actionnaires. En cas d'échec, la responsabilité est extériorisée, sur les experts à l'origine de ces modes. A contrario, ne pas adopter une pratique à la mode nécessite un effort de justification. 
+- Enfin, en fournissant une "stratégie en kit" (p.14) et un écho externe au discours, l'effort de communication et de persuasion est moindre pour mobiliser les collaborateurs. 
 
-Dépasser la dichotomie adoption / rejet, et la graduer, pour cela Kjell Arne Røvik, analogie avec l'infection par un virus, infection, immunité, la réplication, l'incubation, la mutation, la dormance. Nuance les modalités d'adoption.
+###### Aller au-delà du seul conformisme, "la mode: un vecteur d'innovation ?"
+Romain Zerbib pointe que les possibilités d'intégration des pratiques vont au-delà de la simple dichotomie rejet complet / adoption totale.
 
-Røvik KA. (2011), From Fashion to Virus: An Alternative Theory of Organizations’ Handling of Management Ideas, Organization Studies, 32(5), 631-653.
+En s'appuyant sur l'analogie faite par Kjell Arne Røvik (p.16 - 17) entre la diffusion des phénomènes de mode et les étapes de l'infection virale, il nuance les degrés d'adoption possible. Ainsi une hybridation ou plutôt une "mutation" est-elle nécessaire pour adapter une pratique, de prime abord trop simpliste et trop rigide, à la complexité d'un contexte donné.
+
+"Une démarche efficace répond en effet, à au moins deux critères fondamentaux : être personnalisée, pour garantir une adéquation maximale avec les besoins et contraintes de l’entreprise ; et être créative pour maintenir une dynamique de différenciation stratégique." (p. 18)
+
+Enfin 
+
+"Les modes en management ont cependant un mérite : elles soulèvent des problématiques stratégiques. Les questions relatives au bien-être, à l’engagement, à l’optimisation des processus… constituent en effet des enjeux fondamentaux." (p.18) 
+
 
 La mode un vecteur d'innovation ?
 
 Modes, solutions trop simples alors que doit s'adapter à l'exception que constitue chaque situation / entreprise.
 
-"Le succès d’une mode repose en effet sur le principe que l’on peut réussir en imitant les meilleures entreprises." (p.17)
 
-"Une démarche efficace répond en effet, à au moins deux critères fondamentaux : être personnalisée, pour garantir une adéquation maximale avec les besoins et contraintes de l’entreprise ; et être créative pour maintenir une dynamique de différenciation stratégique." (p. 18)
-
-"Les modes en management ont cependant un mérite : elles soulèvent des problématiques stratégiques. Les questions relatives au bien-être, à l’engagement, à l’optimisation des processus… constituent en effet des enjeux fondamentaux. Les solutions fournies en kit pâtissent toutefois d’un simplisme qui peut mener droit à une destruction de valeur, notamment lorsqu’elles sont intégrées dans une phase d’emballement peu sujette à la prise de recul." (p.18)
 
 l'adaptation à un nouveau contexte
 Du conformisme à l'innovation : ligne directrice du livre ?
