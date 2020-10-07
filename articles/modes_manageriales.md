@@ -6,7 +6,7 @@ Que nous disent ces modes managériales de la vie des entreprises?
 
 Une mode managériale est-elle juste un comportement moutonnier (de Panurge, s'il vous plaît) ou mettent-elles en évidence des tendances, des problèmes ou des questionnements qui traversent les entreprises face à un monde incertain? 
 
-Ce livre collectif se pose ces questions, depuis la définition du phénomène de mode managériale, son fonctionnement et ce qu'il révèle de la vie des entreprises. Il indique que ces modes pointent souvent un moment de remise en question et, en cela, ouvrent un potentiel d'innovations. 
+Ce livre collectif se pose ces questions, depuis la définition du phénomène de mode managériale et ce qu'il révèle du fonctionnement du monde des entreprises. Il indique que ces modes pointent souvent un moment de remise en question et, en cela, ouvrent un potentiel d'innovations. 
 
 ![Les modes managériales couverture du livres](modesManagériales.png)
 
@@ -16,6 +16,8 @@ Zerbib, Romain (coord.) Les modes managériales: du conformisme à l'innovation
 </figcaption>
 
 ### Lecture
+
+L'article introductif de Romain Zerbib cadre l'ensemble de l'ouvrage. Nous en reprenons quelques grands thèmes pour regrouper les articles suivants 
 
 #### Préface - Christophe Midler
 
@@ -32,13 +34,9 @@ Romain Zerbib inscrit l'étude des modes managériales dans un courant de pensé
 
 "La théorie des modes managériales est née en 1986 sous la plume de Christophe Midler avec la publication d’un article intitulé « La logique de la mode managériale ». Il sera suivi quelques années plus tard, en 1991, par un autre article de référence rédigé par Eric Abrahamson « Managerial Fads and Fashions »." (p.10)
 
-Abrahamson E. (1991), Managerial fads and fashions: the diffusion and rejection of innovations, Academy of Management Review, 16(3), 586-612.
-
-Midler C. (1986), Logique de la mode managériale, Annales des Mines, Gérer et Comprendre, 3, Juin, 74-85.
-
-Ces références sont citées de nombreuses fois dans l'ouvrage.
-
 Issue de l’approche sociologique de la théorie néo-institutionnelle John W. Meyer et Brian Rowan (1977), ces premières théories étudient la diffusion des nouvelles pratiques de gestion perçues comme un conformisme, sous-tendu par la recherche de légitimité.
+
+"Le succès d’une mode repose en effet sur le principe que l’on peut réussir en imitant les meilleures entreprises." (p.17)
 
 ###### La définition du phénomène de mode managériale
 A partir de ces théoriciens des modes managériales, Romain Zerbib donne une première définition du phénomène de mode comme devant répondre à 4 critères:
@@ -48,16 +46,20 @@ A partir de ces théoriciens des modes managériales, Romain Zerbib donne une pr
 3. une adoption qui résulte autant d'une croyance ou d'une imitation que de qualités réelles,
 4. un cycle de vie court, une popularité qui décroit rapidement.
 
-La dimension irrationnelle est soulignée par Romain Zerbib. Comment une pratique, souvent très simple, répondrait-elle à une multitude de contextes et de situations variées? Comment une pratique que tout le monde adopte simultanément fournirait les moyens de se différencier? Pourquoi adopter une pratique externe dont l'impact est mal connu?
+La dimension irrationnelle,le troisième point, est soulignée par Romain Zerbib. 
 
-"Le succès d’une mode repose en effet sur le principe que l’on peut réussir en imitant les meilleures entreprises." (p.17)
+Comment une solution, souvent très simple, répondrait-elle à une multitude de contextes et de situations variées? 
+
+Comment imiter ce que tout le monde fait au même moment fournirait les moyens de se différencier? 
+
+Pourquoi prendre le risque d'adopter une pratique externe dont l'impact est mal connu?
 
 Toujours en suivant les "théoriciens des modes managériales", il précise les raisons de cette adoption, en pointant d'abord les caractéristiques, les canaux de diffusion et l'intérêt de la plupart de ces pratiques à la mode pour leur clientèle, les managers.
 
 ###### Le pouvoir d'attraction des pratiques à la mode 
-- elles sont simples à appréhender, faciles à utiliser, rapides à mettre en oeuvre,
-- elles paraîssent modernes parce que récentes, mais aussi, parce qu'elles sont parées de prestiges, ornées de chiffres et de discours d'experts, qu'elles permettent d'imiter le comportement d'une élite, d'entreprises célèbres ou pionnières,
-- elles apparaîssent "lors de séquences marquées par une remise en question des paradigmes établis (crises, faillites, etc.)" (p.12) Elles semblent des solutions simples à des problèmes complexes.
+- elles sont simples à appréhender, paraissent faciles à utiliser et donc rapides à mettre en oeuvre,
+- elles ont les atours de la modernes parce que récentes, mais aussi, parce qu'elles sont ornées de chiffres et de discours d'experts, qu'elles sont parées de prestige en imitant le comportement d'une élite, d'entreprises célèbres ou pionnières,
+- elles apparaîssent enfin "lors de séquences marquées par une remise en question des paradigmes établis (crises, faillites, etc)" (p.12) Elles semblent des solutions simples à des problèmes complexes.
 
 ###### Les réseaux de diffusion 
 Il n'y a pas d'émergence spontanée. Il existe une "industrie" composées d'académiques, de consultants, de médias, de managers, qui diffusent une pratique non pas par un mouvement concerté mais suite à une convergence conjoncturelle d'intérêts.
@@ -66,30 +68,20 @@ Il n'y a pas d'émergence spontanée. Il existe une "industrie" composées d'aca
 Bien que soumis aux mouvements contradictoires d'un côté pour se différencier, de l'autre pour se conformer aux normes, pris dans une course entre pionniers et suiveurs, les managers ne sont pourtant pas victimes de la mode. 
 
 Ils y trouvent un intérêt en "l'instrumentalisant":
-- afin d'améliorer sa position, souvent "en maîtrisant le jargon", car l'adoption de la pratique n'est pas nécessaire. C'est un jeu d'inclusion - exclusion, qui est "in" qui est "out"?
+- afin d'améliorer leur position, souvent "en maîtrisant le jargon", car l'adoption de la pratique n'est pas nécessaire. C'est davantage un jeu d'inclusion - exclusion, qui est "in" qui est "out"?
 - Pour diminuer la pression et les risques, une étude (p.14) a montré que les entreprises qui suivent les modes sont évaluées de façon plus positive et plus clémente, notamment par les actionnaires. En cas d'échec, la responsabilité est extériorisée, sur les experts à l'origine de ces modes. A contrario, ne pas adopter une pratique à la mode nécessite un effort de justification. 
 - Enfin, en fournissant une "stratégie en kit" (p.14) et un écho externe au discours, l'effort de communication et de persuasion est moindre pour mobiliser les collaborateurs. 
 
 ###### Aller au-delà du seul conformisme, "la mode: un vecteur d'innovation ?"
-Romain Zerbib pointe que les possibilités d'intégration des pratiques vont au-delà de la simple dichotomie rejet complet / adoption totale.
+Romain Zerbib pointe que les possibilités d'assimilation des modes au sein des entreprises vont au-delà de la simple dichotomie rejet complet ou adoption totale.
 
 En s'appuyant sur l'analogie faite par Kjell Arne Røvik (p.16 - 17) entre la diffusion des phénomènes de mode et les étapes de l'infection virale, il nuance les degrés d'adoption possible. Ainsi une hybridation ou plutôt une "mutation" est-elle nécessaire pour adapter une pratique, de prime abord trop simpliste et trop rigide, à la complexité d'un contexte donné.
 
 "Une démarche efficace répond en effet, à au moins deux critères fondamentaux : être personnalisée, pour garantir une adéquation maximale avec les besoins et contraintes de l’entreprise ; et être créative pour maintenir une dynamique de différenciation stratégique." (p. 18)
 
-Enfin 
+Cette "mutation" est ainsi une source d'innovation.
 
-"Les modes en management ont cependant un mérite : elles soulèvent des problématiques stratégiques. Les questions relatives au bien-être, à l’engagement, à l’optimisation des processus… constituent en effet des enjeux fondamentaux." (p.18) 
-
-
-La mode un vecteur d'innovation ?
-
-Modes, solutions trop simples alors que doit s'adapter à l'exception que constitue chaque situation / entreprise.
-
-
-
-l'adaptation à un nouveau contexte
-Du conformisme à l'innovation : ligne directrice du livre ?
+Au final, il rappelle que "les modes en management ont cependant un mérite : elles soulèvent des problématiques stratégiques. Les questions relatives au bien-être, à l’engagement, à l’optimisation des processus… constituent en effet des enjeux fondamentaux." (p.18)
 
 #### Comment naissent les modes managériales ? - Philippe Fache
 
@@ -99,7 +91,7 @@ au contexte dans lequel émerge une mode, ses vecteurs de diffusion, les "faiseu
 au pouvoir d'attraction, montre qu'il s'agit d'une promesse de résolution simple d'un problème souvent complexe, "la naissance d’une mode s’inscrit dans un faisceau d’espoirs, d’attentes, de croyances collectives et de fantasmes, eux-mêmes issus de déceptions et de désillusions préalables" (p.22)
 Le discours, la mise en récit très chevaleresque, épique : la geste politique - rupture avec des pratiques dépassées, une quête d'efficacité et de performance, des valeurs portées.
 
-#### Les modes managériales : vogues mondaines ou marqueurs sociaux ? - Lionel Prud'homme
+#### Les modes managériales : vogues mondaines ou marqueurs sociaux? - Lionel Prud'homme
 
 S'appuie sur Georg Simmel, besoin de se différencier et le besoin d'appartenir.
 
@@ -170,6 +162,33 @@ D'abord l'impulsion par des experts universitaires (1950 - 1965), avec prise en 
 Les matrices de portefeuilles (1969 - 1973). Découpage de l'entreprise en grand domaine (business unit). Mimétisme des stratégiques par l'application des matrices de portefeuille. Limite des matrices enoncée par les milieux académiques. "Aucun outil [...] ne vaut pour toujours et partout [...]" (p.47)
 
 #### Les tendances managériales révélatrices de problématiques invariantes ? - Patrick Storhaye
+
+#### Pourquoi est-il inévitable aujourd'hui qu'il y ait des modes managériales - Patrick Bouvard
+
+#### Les mille et une appropriation de la mode - Ludovic Taphanel
+
+#### Les réseaux de la mode managériale - Soufyane Frimousse et Jean-Marie Peretti
+
+#### Les effets de mode en RH ... et si on savait en profiter? - André Perret
+
+#### Quand les modes challengent la fonction RH - Michel Barabel
+
+#### Modes managériales et expérience collaborateur: un levier de (des)enchantement? - Séverine Loureiro
+
+#### Le bonheur au travail - François Gueuze
+
+#### Se libérer de l'entreprise libérée - Loïc Le Morlec
+
+#### Marque employeur de l'entreprise: le bon sens de la modernité? - Thomas Chardin
+
+#### La déviance positive: un remède aux tendances managériales contreproductives? - Mathilde Brière
+
+#### Le conformisme source d'innovation managériale? - Zacharie Mauge
+
+#### Le SwitchLab, naissance et diffusion d'une innovation managériale inter-entreprises - Jean-Yves Guillain et David Autissier
+
+#### Qu'est-ce qu'une stratégie d'innovation et de rupture ? - Olivier Meier
+
 
 ### Eléments critiques
 
@@ -247,3 +266,14 @@ François Gueuze
 https://www.parlonsrh.com/entreprise-liberee-entre-communication-et-imposture/
 
 Article de José Allouche aurait pu prendre dimension interne externe: années 60 interne, années 70-80 externe, années 90-00 interne
+
+Abrahamson E. (1991), Managerial fads and fashions: the diffusion and rejection of innovations, Academy of Management Review, 16(3), 586-612.
+
+Midler C. (1986), Logique de la mode managériale, Annales des Mines, Gérer et Comprendre, 3, Juin, 74-85.
+
+Ces références sont citées de nombreuses fois au travers de l'ouvrage (Romain Zerbib, Philippe Fache, Lionel Prud'homme, Ludovic Taphanel, Soufyane Frimousse et Jean-Marie Peretti, Jean-Yves Guillain et David Autissier)
+
+
+Simmel G. (2013), Philosophie de la mode, Editions Allia (édition originale, 1895) (P.Fache, L. Prud'homme,)
+
+Leur apparition au moment de crise, réflèxe protecteur du comportement de groupe - de horde, face à un ennemi invisible ou mal compris? Peur? Aspect révélateur de a crise. Koehler changement commence par une situation de crise qui accélère les changements sous-jacent (en "dormance" pour reprendre l'analogie virale de Røvik)
