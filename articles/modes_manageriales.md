@@ -17,7 +17,53 @@ Zerbib, Romain (coord.) Les modes managériales: du conformisme à l'innovation
 
 ### Lecture
 
-L'article introductif de Romain Zerbib cadre l'ensemble de l'ouvrage. Nous en reprenons quelques grands thèmes pour regrouper les articles suivants 
+#### L'études des modes managériales, un courant théorique ...
+
+l'étude des modes managériales Le livre n'est pas précurseur et s'inscrit dans une lignée dans un courant de pensée qui mèle sociologie et sciences de gestion.
+
+"La théorie des modes managériales est née en 1986 sous la plume de Christophe Midler avec la publication d’un article intitulé « La logique de la mode managériale ». Il sera suivi quelques années plus tard, en 1991, par un autre article de référence rédigé par Eric Abrahamson « Managerial Fads and Fashions »." (Romain Zerbib - p.10)
+
+Issue de l’approche sociologique de la théorie néo-institutionnelle John W. Meyer et Brian Rowan (1977), ces premières théories étudient la diffusion des nouvelles pratiques de gestion perçues comme un conformisme, sous-tendu par la recherche de légitimité.
+
+"Le succès d’une mode repose en effet sur le principe que l’on peut réussir en imitant les meilleures entreprises." (Romain Zerbib - p.17)
+
+#### ... qui est enrichit.
+
+Plusieurs articles proposent d'élargir la première définition
+- nuance l'adoption
+- dépasser l'utilité par la seule recherche de légitimité
+- ouverture avec retour vers la sociologie de la mode (G.Simmel), ou la psychologie (deviance positive)
+
+Propose une définition qui met l'accent sur la dimension "socio-psychologique"
+A partir de ces théoriciens des modes managériales, Romain Zerbib donne une première définition du phénomène de mode comme devant répondre à 4 critères:
+
+1. un objet, une pratique de gestion présentée comme moderne, rationnelle et performante,
+2. une forte diffusion médiatique, le discours envahit les livres, les articles, les conférences, etc.
+3. une adoption qui résulte autant d'une croyance ou d'une imitation que de qualités réelles,
+4. un cycle de vie court, une popularité qui décroit rapidement.
+
+La dimension irrationnelle,le troisième point, est soulignée par Romain Zerbib qui explique aussi le pouvoir d'attraction 
+La tendance / L'utopie selon Lionel Prud'homme
+Philippe Fache et Ludovic 
+
+Qu'elles sont révélatrices de questionnement / arrivent à des moments de remise en question
+stagnation / tourner en rond / remettent à l'honneur / discours en creux / redonne espoir - mobilise
+
+#### Un rappel des moyens de diffusion
+
+Identifient les moyens de diffusion
+José Allouche montre aussi que discours s'inscrivent dans un environnement économique auxquel ils cherchent à répondre.
+Soufyane Frimousse tente un inventaire des réseaux en France.
+
+#### Les modes managériales, simple miroir aux alouettes ou ...
+Que l'adoption naïve de mode peut être risqué / miroir aux allouettes ?
+exemples du bonheur en entreprise, de l'entreprise libérée, de la marque employeur
+
+#### ... discours qu'il faut décoder, écouter avec attention mais recul ? 
+Que ces modes ont quelque chose à nous dire sur l'ère du temps
+
+#### car l'innovation se trouve dans un décentrage du regard / de l'attention
+Qu'elles sont sources d'innovation / côté pratique / mise en action action
 
 #### Préface - Christophe Midler
 
