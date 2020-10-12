@@ -44,10 +44,7 @@ A partir de ces théoriciens des modes managériales, Romain Zerbib donne une pr
 
 La dimension irrationnelle,le troisième point, est soulignée par Romain Zerbib qui explique aussi le pouvoir d'attraction 
 La tendance / L'utopie selon Lionel Prud'homme
-Philippe Fache et Ludovic 
-
-Qu'elles sont révélatrices de questionnement / arrivent à des moments de remise en question
-stagnation / tourner en rond / remettent à l'honneur / discours en creux / redonne espoir - mobilise
+Philippe Fache
 
 #### Un rappel des moyens de diffusion
 
@@ -61,6 +58,11 @@ exemples du bonheur en entreprise, de l'entreprise libérée, de la marque emplo
 
 #### ... discours qu'il faut décoder, écouter avec attention mais recul ? 
 Que ces modes ont quelque chose à nous dire sur l'ère du temps
+reflet d'une époque
+plusieurs histoires - goût personnel de celle d'André Perret parce qu'elle a la saveur du vécu et une guoaille qui lui donne un petit côté tonton flingueur San Antonio
+"Lorsque la « mode » nous montre un doigt… regardons la lune…" (p.90)
+Qu'elles sont révélatrices de questionnement / arrivent à des moments de remise en question
+stagnation / tourner en rond / remettent à l'honneur / discours en creux / redonne espoir - mobilise
 
 #### car l'innovation se trouve dans un décentrage du regard / de l'attention
 Qu'elles sont sources d'innovation / côté pratique / mise en action action
@@ -209,13 +211,86 @@ Les matrices de portefeuilles (1969 - 1973). Découpage de l'entreprise en grand
 
 #### Les tendances managériales révélatrices de problématiques invariantes ? - Patrick Storhaye
 
+décrit courant managériaux des 40 dernières années "peuvent révéler comme problèmes rémanents." (p.63)
+
+Patrick Storhaye dresse un tableau des 40 dernières années de l'histoire du management. Constante dans les différents courants (sont-ils des modes?), Toyotisme, les organisations apprenantes, l'agilité et l'entreprise libérée, critiques plus ou moins fortes du Taylorisme - décrit comme incontournable - "l’histoire du management s’apparente à une quête incessante d’ouverture d’un modèle incontournable mais rigide" (p. 67) perçu comme rigide, incapable d'innover ou de s'adapter, trop vertical, source de mal-être, besoin de remettre l'humain au coeur, technologie comme moyen de gain de productivité dans une logique productiviste classique, même si internet avec logique réseau et communauté, remettre intelligence collective (pour reprendre un terme à la mode), empowerment et autonomie
+incontournable donc pas de volonté de renversement
+
+##### 1980 / 1990 - le Toyotisme
+Toyotisme comme prolongement du taylorisme, mais aussi en creux comme dépassement avec accent sur la proximité terrain (être présent sur le terrain), intelligence des collaborateurs condition nécessaire à l'amélioration de la performance.
+
+##### 1990 / 2000 - les organisations apprenantes
+travaux de Peter Senge (1990)
+émergence des ERP
+- d'un côté, management par les ressources poursuivant logique productiviste Taylorisme
+- de l'autre une approche fondée sur les compétences
+contexte de financiarisation de l'économie et surtout de ses effets: "déséquilibre des parties prenantes, amplification des modes organisationnels destinés à dégager des profits, tyrannie du court terme, exagération du « command & control », etc." (p.64)
+
+##### 2000/ 2010 - les réseaux et les communautés
+fin 1990, bulle internet, attentats 2001 - monde qui bascule. "les peurs des entreprises occidentales" (p.65) combinaison entre augmentation de la productivité et exigence d'innovation
+contexte d'outils informatiques perçus comme trop rigide et intégrés - apparition des applications collaboratives - démocratisation d'internet et logiques communautaires qui commencent à apparaître
+"...la compétitivité par les coûts de suffisaient plus, le focus revenait sur la *top line*(chiffre d'affaires) et l'innovation..." organisation plus réactives, "injonctions à l'agilité", plus de coopération.
+commuanutés internes et réseaux sociaux d'entreprises remplacent "un *Knowledge Management* devenu désuet" (p.65)
+à nouveau "recours à l'humain, à ses connaissances, ses compétences" "coopération" pour faire évoluer un système mécaniste et figé, certes nécessaire et incontournable, mais trop rigide pour s'adapter de lui-même."(.65)
+
+##### 2010 / 2020 - l'entreprise agile ou libérée
+crises économiques des subprimes de 2008, urgence à se transformer, prise de conscience [encore !] de rigidité, besoin d'innovation et d'adaptation rapide, mal-être au travail, rejet de la verticalité par la société; 3 tendances:
+1. intelligence artificielle pour augmenter la productivité,
+2. extension abusive du concept d'agilité, issu du management de projets,
+3. mouvement de type holacratie ou entreprise libérée, *empowerement*, intrapreneuriat
+réduisant la hiérarchie mais rappelant nécéssité d'un projet d'entreprise, le besoin d'incarnation et l'autonomie des personnes. Esprit d'entrepreneur.
+
+##### une constante: ouvrir le modèle normatif
+3 constantes:
+1. technologies informatiques "bras armé de la productivité" pour industrialiser façon Taylor
+2. technologie avec supposée capacité à favoriser l'adaptation
+3. courant managériaux marqués par un recours à l'humain, autonomie
+souligne l'insuffisance du modèle normatif qui domine la vie des entreprises (le Taylorisme), incapacité à favoriser une adaptation rapide
+"l’histoire du management s’apparente à une quête incessante d’ouverture d’un modèle incontournable mais rigide."
+(p. 67) 
+
 #### Pourquoi est-il inévitable aujourd'hui qu'il y ait des modes managériales - Patrick Bouvard
+
+Contexte de complexité "inédite" (un peu rapide)
+- nombre de données à traiter (infobésité)
+- environnements changeants, imprévisibles
+- logique financière court-termiste et injonctions souvent paradoxales
+
+prise de recul nécessaire pour "penser l'action" réduite à sa "portion congrue" (p69-70)
+donc les dirigeants et les managers prennent des raccourcis: théories et pratiques toutes faites, reproduction de meilleures pratiques
+versent "dans une logique d'inférence", conformité à un système de représentation
+"Une mode managériale, c’est finalement quand il n’y a plus de managers, et qu’il n’y a que du management" (p. 71).
+
+Rappel que l'intelligence nécessite du recul, du temps, de la sérénité afin de "discerner les significations au sein du bruit local" (p.72) alors que l'époque exige de la rapidité, de l'immédiateté
+remet au centre la "connaissance"
+Patrick Bouvard souligne l'intérêt du travail à distance pour prendre du recul
 
 #### Les mille et une appropriation de la mode - Ludovic Taphanel
 
+"souligner l’importance du ou des récits dans les phénomènes de propagation des modes managériales."(p. 74)
+montre le discours est le véhicule des modes, qu'il y a un écart entre le discours et les pratiques
+"L’idée n’est pas de savoir si elles adoptent ou non la mode en question, mais bien plus de comprendre la manière dont elles l’adoptent le cas échéant." (p. 75)
+"les modes existent en tant qu’artefacts rhétoriques" (p. 76)
+questionnent bien mais les pratiques en cours, mais leur adoption dans une nuance de possibilité entre rejet et innovation radicale.
+
+
 #### Les réseaux de la mode managériale - Soufyane Frimousse et Jean-Marie Peretti
+tentative de lister les réseaux vecteurs de modes, agents de diffusion des modes:
+- clubs de dirigeants
+- associations professionnelles
+- les réseaux académiques
+- les réseaux sociaux numériques et les influenceurs digitaux (loupe les TedX)
 
 #### Les effets de mode en RH ... et si on savait en profiter? - André Perret
+Plutôt dans sciences "molles" que sciences "dures" parce qu'évoluent par "école", "tendance", "orientation" (point de vue contestable)
+années 70, Directions du Personnel gardiennent du droit et de la règles. "On ne se préoccupait guère de « management » en dehors de réflexions tayloriennes d’optimisation des tâches."
+(p. 88)
+"Bouillonnement de Palo-Alto" et "tsunami" des méthodes de production japonaise
+séminaires sur la créativité par la coopération (montre que déjà présent)
+existence de la graphologie et des "sciences parapsy"
+époque où "prise de conscience que le collaborateur était un individu évolutif, responsable et mature et non cet être exploitable à souhait, prisonnier d’une logique politique (lutte des classes) et d’une apologie du management directif."(p. 89)
+année 70-80, début de la formation, négociations sociales et début des SIRH.
+"Alors faut-il sortir la mitrailleuse lourde lorsqu’il y a soupçon de « mode » ?" (p. 90)
 
 #### Quand les modes challengent la fonction RH - Michel Barabel
 
@@ -325,3 +400,11 @@ Simmel G. (2013), Philosophie de la mode, Editions Allia (édition originale, 18
 Leur apparition au moment de crise, réflèxe protecteur du comportement de groupe - de horde, face à un ennemi invisible ou mal compris? Peur? Aspect révélateur de a crise. Koehler changement commence par une situation de crise qui accélère les changements sous-jacent (en "dormance" pour reprendre l'analogie virale de Røvik)
 
 https://www.usinenouvelle.com/article/avis-d-expert-dans-le-management-eloge-de-la-tradition.N689849
+
+foisonnement des mouvements et des discours
+
+Entreprise libérée / lien avec crise économique de 2008, mais moins rapprochement avec suicides chez France Telecom (2009 - 2011)
+
+aller - retour France / monde anglo-saxon perte du contexte et généralisations ++
+
+les histoires ne mentionnent pas syndicalisation, lutte des classes, grands discours, importance de l'Etat,
