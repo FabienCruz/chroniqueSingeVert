@@ -323,3 +323,5 @@ Ces références sont citées de nombreuses fois au travers de l'ouvrage (Romain
 Simmel G. (2013), Philosophie de la mode, Editions Allia (édition originale, 1895) (P.Fache, L. Prud'homme,)
 
 Leur apparition au moment de crise, réflèxe protecteur du comportement de groupe - de horde, face à un ennemi invisible ou mal compris? Peur? Aspect révélateur de a crise. Koehler changement commence par une situation de crise qui accélère les changements sous-jacent (en "dormance" pour reprendre l'analogie virale de Røvik)
+
+https://www.usinenouvelle.com/article/avis-d-expert-dans-le-management-eloge-de-la-tradition.N689849
