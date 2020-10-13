@@ -67,6 +67,10 @@ stagnation / tourner en rond / remettent à l'honneur / discours en creux / redo
 #### car l'innovation se trouve dans un décentrage du regard / de l'attention
 Qu'elles sont sources d'innovation / côté pratique / mise en action action
 
+que l'innovation peut se trouver en interne, création d'un cadre particulier - la déviance positive ou encore la perception sur la qualité
+
+ou en décentrant par un apport externe SwitchLab
+
 #### Préface - Christophe Midler
 
 L'introducteur du concept de mode managériale en 1986, dans l'article Logique de la mode managériale, (Annales des Mines, Gérer et Comprendre, 3, Juin, 74-85). Pourquoi ce concept dure, 4 raisons à cela:
@@ -293,23 +297,77 @@ année 70-80, début de la formation, négociations sociales et début des SIRH.
 "Alors faut-il sortir la mitrailleuse lourde lorsqu’il y a soupçon de « mode » ?" (p. 90)
 
 #### Quand les modes challengent la fonction RH - Michel Barabel
+"la fonction RH est une *fashion victim*"(p.93)
+3 raisons succès particulier auprès des RH: 
+- le complexe du petit dernier, se doter des attributs de la modernité
+- fonction RH intimement liée à la seconde révolution industrielle et au modèle taylorien d'organisation du travail - très bureaucratisée "processée". Sensible aux modes qui remette l'humain au coeur (bonheur au travail, intelligence collective, entreprise libérée ...)
+- "RH bashing", responsable de la violence organisationnelle
+
+##### risque à adopter une mode
+"adopter une mode relève au mieux de la paresse intellectuelle (absence de réflexion et de travail en profondeur) ou d’un manque de courage (conformité sociale) ; au pire de l’opportunisme (narcissisme, valorisation auprès des pairs, se prémunir d’éventuelles critiques en disant qu’on a fait comme les autres : « c’est la faute à la mode »…)." (p. 94)
+- "La GRH est contextualisée alors que par nature une mode est universaliste" - discours assez simpliste - reproduction du "One best way" de Taylor
+- La mode fait fi du passé / Bruno Latour "La caractéristique centrale de la modernité est de considérer que le passé est dépassé. Il est dévalorisé au profit de la nouveauté" alors que bonne politique RH consiste à "sublimer certains éléments fondateurs de l'histoire d'une organisation"
+- Une mode managériale nous entraîne dans l'océan rouge. Benchmark (copié-collé managérial) / "phénomène de lassitude voire de désillusion chez les collaborateurs" (p.95)
+Michel Barabel donne 7 principes à adopter face à une mode managériale
 
 #### Modes managériales et expérience collaborateur: un levier de (des)enchantement? - Séverine Loureiro
 
+##### risque de la perte de sens
+d'abord lorsqu'il y a adoption rhétorique, effet d'image et de communication, lorsque la Qualité de Vie au Travail devient le bonheur au travail, mais que rien ne change au quotidien, mais aussi adoption plus substantielle, ou que la nature de la relation avec l'entreprise n'a pas changé, effet déceptif
+moment de la "gueule de bois" (p.99)
+##### risque de désengagement
+nature éphémère d'une mode et succession de nouvelle mode: ne plus être convaincu
+"attiré par le halo d'innovation"(p.100)
+##### opportunité de remise en question
+"il y a une vertu aux modes managériales, c’est la remise en question." (p. 100)
+invite à trouver un juste milieu (p.100) et se poser la question de la valeur que cela va apporter.
+
 #### Le bonheur au travail - François Gueuze
+"Pour vivre et prospérer les modes managériales ont besoin de parler au plus grand nombre grâce à des images fortes, mais suffisamment floues pour que chacun puisse se reconnaître sur la photo." (p. 102)
+
+années 2000, chez Google, mode inspirée de la psychologie positive
+effet pervers "quand l'injonction au bonheur nous confine dans le malheur"(p.102)
+"au XXIe l’injonction au bonheur au travail ou autres dispositifs « Happy » constitue une nouvelle forme de paternalisme bas de gamme"(p. 104)
+montre danger: surinvestissement personnel où s'estompe frontière entre vie personnelle et vie professionnelle, engagement maximal des collaborateurs, responsabilité de chacun dans la réussite du groupe, masque les réels problèmes de qualité du travail
 
 #### Se libérer de l'entreprise libérée - Loïc Le Morlec
 
+"L'entreprise libérée est la première mode managériale à l'ère des réseaux sociaux"(p.107) [un peu péremptoire]
+très faible taux de pénétration / d'adoption dans les entreprise
+taux d'engagement similaires entre entreprises "libérées" ou non
+pas plus performante
+Parmi les experts ayant écrit sur les entreprises libérées, personne n'a eu accès aux données de gestion des entreprises citées (p.108)
+il y a des chiffres
+reportage le bonheur au travail, en 2015, point de départ du buzz sur l'entreprise libérée. Favi en 2019 ? Favi est passée de 600 à 380 salariés.
+montre les incohérences et les traits grossis pour la démonstration, voire pire qui masquent ou trasvestissent la réalité.
+
 #### Marque employeur de l'entreprise: le bon sens de la modernité? - Thomas Chardin
 
+Marque employeur est à la mode, expression date de 1996, à la toute fin des années 90
+la guerre des talents, contexte de tertiarisation numérique de l'économie
+problème d'attraction, de fidélisation et d'engagement des collaborateurs
+
+"le modèle RH de nos entreprises, qui est sans doute le fruit d’un modèle taylorien et fordiste, ressemble de plus en plus à celui du tonneau des Danaïdes." (p. 112)
+
+met en avant risque de la sur-promesse et de contradictions
+
+limitée à la communication autour du seul recrutement, oublie la cohérence que requiert le concept
+
+remettre l'Homme au coeur de l'entreprise
+
 #### La déviance positive: un remède aux tendances managériales contreproductives? - Mathilde Brière
+
+"la déviance serait un phénomène normal, utile et sain car il permet à la société et/ou l’organisation d’évoluer et de s’adapter aux changements de son environnement" (p. 118)
+"un comportement déviant s’écarte des normes et induit une résistance à la pression sociale du conformisme." (p. 119)
+Mathilde Brière, dans la lignée de Danielle E. Warren, fit la distinction ent, déviance viole les première mais pas les secondes
+"refus de suivre des normes considérées comme dysfonctionnelles"(p.119)
+"la Direction adopte une attitude de tolérance ou du moins de laisser-faire en ne sanctionnant pas les prises d’initiatives." (pp. 120-121)
 
 #### Le conformisme source d'innovation managériale? - Zacharie Mauge
 
 #### Le SwitchLab, naissance et diffusion d'une innovation managériale inter-entreprises - Jean-Yves Guillain et David Autissier
 
 #### Qu'est-ce qu'une stratégie d'innovation et de rupture ? - Olivier Meier
-
 
 ### Eléments critiques
 
@@ -342,7 +400,7 @@ Il y a une certaine redondance dans la lecture et une répétition des citations
 
 L'excellent article de [...]Prud'homme met l'accent sur le lien entre les attentes sociales et le contenu utopique des modes managériales. 
 
-Les modes managériales perçue comme le cycle de vie d'un produit : naissance, croissance, déclin et disparition. [voir partie Romain Zerbib]
+Les modes managériales perçue comme le cycle de vie d'un produit : naissance, croissance, déclin et disparition. [voir partie Romain Zerbib] cependant contradiction avec notions de "tendance" avec article de Lionel Prud'homme, idée aussi qu'il y a un terreau favorable à l'émergence d'une mode
 
 Romain Zerbib utilise l'analogie de Rovik avec la diffusion des virus. Autant l'analogie ouvre des portes, par exemple les modèles mathématiques de diffusion des virus ou encore la trace qu'ils laissent dans l'organisme. Attention à ne pas se perdre dans l'analogie.
 
@@ -407,4 +465,9 @@ Entreprise libérée / lien avec crise économique de 2008, mais moins rapproche
 
 aller - retour France / monde anglo-saxon perte du contexte et généralisations ++
 
-les histoires ne mentionnent pas syndicalisation, lutte des classes, grands discours, importance de l'Etat,
+les histoires ne mentionnent pas diminution de la syndicalisation, lutte des classes, de grands discours, de la diminution importance de l'Etat,
+sauf Lionel Prud'homme Georg Simmel
+
+Ouvrage très centré sur la fonction RH, comme le dit Michel Barabel, "la fonction RH est une *fashion victim*" (p.93)
+
+start-up, grands groupes ceratins GAFA (pas tous) leur façon de travailler est différente - pas très mis en valeur
