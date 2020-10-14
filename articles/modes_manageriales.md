@@ -367,6 +367,18 @@ Mathilde Brière, dans la lignée de Danielle E. Warren, fit la distinction ent,
 
 #### Le SwitchLab, naissance et diffusion d'une innovation managériale inter-entreprises - Jean-Yves Guillain et David Autissier
 
+"L’innovation managériale se conçoit par différence à ce qui est considéré comme le management classique, c’est-à-dire le management
+hiérarchique structuro-fonctionnel (une structure, une fonction, un chef) en mode contrôle/commande (injonctions et systèmes de contrôle de réalisation de ces mêmes injonctions)." (pp. 131-132)
+
+"l’innovation managériale constitue davantage une forme d’évolution que de rupture car le modèle politique de l’organisation n’a jamais été remis en cause, ou de manière expérimentale et sans généralisation (notamment les essais d’auto-gestion dans certaines entreprises comme Lip – entreprise horlogère – dans les années 1970 en France)." (p. 132)
+
+"l’évolution sociétale en demande de collaboratif" (p. 132)
+
+"dispositif d’intelligence collective qui permet sur une journée (version nominale) aux entreprises participantes de faire traiter leur problématique par une autre entreprise." (p. 132)
+
+"SwitchLab répond ainsi parfaitement à ce qu’attendent les managers et experts actuels dans leurs entreprises respectives, à savoir une pratique « simple, moderne, efficace et rationnelle »"
+(p. 141)
+
 #### Qu'est-ce qu'une stratégie d'innovation et de rupture ? - Olivier Meier
 
 ### Eléments critiques
