@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chronique du singe vert</title>
+  <link rel="stylesheet" href="static/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Lora&family=Oswald&family=PT+Serif&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav>
+  <button class="nav" type="button" onclick="{{ url_for('index') }}">Accueil</button>
+  </nav>
+  <header>
+    <h1>La chronique du<img id="logo" src="static/logo.png" alt="logo du singe vert"></img>inge vert</h1>
+    <figcaption>"business management" et autres balivernes pour s'occuper par temps pluvieux</figcaption>
+  </header>
+  {%block content%}
+  {%endblock%}
+  </body>
+</html> 
