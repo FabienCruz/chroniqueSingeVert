@@ -19,7 +19,7 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: normal;
   color: #008500;
   margin: 2em auto 0em;
@@ -125,7 +125,7 @@ img {
 @media (max-width: 500px) {
   body {
     width: 90%;
-    font-size: 1.1em;
+    font-size: 1em;
   }
 
   h1 {
