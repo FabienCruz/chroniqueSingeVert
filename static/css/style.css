@@ -67,7 +67,6 @@ a {
 }
 
 a:hover {
-  opacity: 80%;
   color: #008500;
   border-bottom: transparent;
 }
