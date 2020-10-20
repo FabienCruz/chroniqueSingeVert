@@ -1,25 +1,23 @@
 body {
   background-color: #fafafa;
-  font-size: 1.1em;
   margin: auto;
-  width: 50%
+  width: 50%;
+  font-family: monospace;
+  font-size: 1.1em;
 }
 
 p, ol, ul {
-  font-family: 'Lora', serif;
   line-height: 1.6;
-  color: rgba(0,0,0,0.85);
+  color: rgba(0,0,0,0.8);
   margin: 1em auto 0em
 }
 
 h1 {
-  font-family: 'Lora', serif;
-  font-size: 3.9vw;
+  font-size: 3.2vw;
   margin: 0;
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: 'Josefin Sans', sans-serif;
   font-weight: normal;
   color: #008500;
   margin: 2em auto 0em;
@@ -46,6 +44,7 @@ h6 {
 }
 
 button {
+  font-family: monospace;
   border: none;
   border-bottom: solid 1px;
   background-color: transparent;
@@ -61,7 +60,7 @@ button:hover {
 
 a {
   text-decoration: none;
-  color: rgba(0,0,0,0.85);
+  color: rgba(0,0,0,0.8);
   border-bottom: solid 1px;
   transition: all ease-out 0.5s;
 }
@@ -90,9 +89,8 @@ figure{
 
 figcaption {
   margin-top: 0;
-  font-family: 'Lora', serif;
-  font-size: 0.8em;
-  color: rgba(0,0,0,0.50);
+  font-size: 0.9em;
+  color: rgba(0,0,0,0.5);
 }
 
 img {
@@ -118,7 +116,7 @@ img {
   }
 
   h1 {
-    font-size: 4.7vw;
+    font-size: 3.7vw;
   }
 }
 
@@ -129,6 +127,6 @@ img {
   }
 
   h1 {
-    font-size: 5.9vw;
+    font-size: 5.5vw;
   }
 }
